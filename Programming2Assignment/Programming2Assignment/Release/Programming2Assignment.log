@@ -1,0 +1,10 @@
+﻿  main.cpp
+k:\visualstudprojects\programming2\programming2assignment\programming2assignment\main.cpp(76): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+k:\visualstudprojects\programming2\programming2assignment\programming2assignment\main.cpp(226): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+k:\visualstudprojects\programming2\programming2assignment\programming2assignment\main.cpp(227): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating code
+  9 of 875 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Programming2Assignment.vcxproj -> K:\VisualStudProjects\Programming2\Programming2Assignment\Release\Programming2Assignment.exe

@@ -1,0 +1,5 @@
+﻿  main.cpp
+k:\visualstudprojects\programming2\programming2assignment\programming2assignment\main.cpp(82): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+k:\visualstudprojects\programming2\programming2assignment\programming2assignment\main.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+k:\visualstudprojects\programming2\programming2assignment\programming2assignment\main.cpp(244): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Programming2Assignment.vcxproj -> K:\VisualStudProjects\Programming2\Programming2Assignment\Debug\Programming2Assignment.exe
